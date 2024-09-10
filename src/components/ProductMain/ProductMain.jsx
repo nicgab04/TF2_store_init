@@ -1,4 +1,4 @@
-import TitleSection from '../TittleSection/TittleSection';// Renombrado
+import TitleSection from '../TittleSection/TittleSection';
 import './ProductMain.css';
 
 const ProductMain = () => {
